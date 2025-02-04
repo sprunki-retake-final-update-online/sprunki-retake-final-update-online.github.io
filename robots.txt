@@ -1,13 +1,2 @@
 User-agent: *
-Disallow: */page/*
-Disallow: *?fbclid=*
-Disallow: /?s=*
-Disallow: /login/
-Disallow: *?fb_comment_id=*
-Disallow: *?sort=new
-Disallow: *?sort=popular
-
-Allow: /*.js$
-Allow: /*.css$
-
-Sitemap:https://devh5github.binhkdc.click/sitemap.xml
+Allow: /
